@@ -18,7 +18,7 @@ URL | filename | username | password"""
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     HELP_USER = """How to Use Me? Follow These steps!
     
-1. Send url (example.domain/File.mp4 | [@mkv_blaster] New File.mp4).
+1. Send url (example.domain/File.mp4 | [@mkv_blasters] New File.mp4).
 2. Send Image As Custom Thumbnail (Optional).
 3. Select the button.
    SVideo - Give File as video with Screenshots
